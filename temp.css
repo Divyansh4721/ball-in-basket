@@ -1,0 +1,17 @@
+#button{
+  position: relative;
+  margin: 0;
+  left: 50%;
+  margin-top: 50px;
+  transform: translateX(-50%);
+}
+#container{
+  position: relative;
+  margin: 0;
+  left: 50%;
+  height: 100px;
+  width: 95%;
+  margin-top: 50px;
+  background-color:lightcyan;
+  transform: translateX(-50%);
+}
